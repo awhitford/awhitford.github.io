@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Play on Anthony Whitford</title>
+    <link>https://AnthonyWhitford.com/tags/play/</link>
+    <description>Recent content in Play on Anthony Whitford</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://AnthonyWhitford.com/tags/play/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enterprise JIRA Reporting</title>
+      <link>https://AnthonyWhitford.com/projects/creations/jira-reporting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/creations/jira-reporting/</guid>
+      <description>JIRA is a great issue tracking system and can be really critical for agile teams. Alas, out of the box reporting leaves a lot to be desired.
+This project:
+ Provided several reports that could be run across multiple JIRA projects so that teams may maintain multiple JIRA projects, often one per software component, yet still view a holistic report relevant for the team, project budget, or developer. Leveraged the Work Log feature in JIRA to build accurate Time Sheet reports based on actual activity spent on issues leading to more accurate time sheets and less administrative burden.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Splunk on Anthony Whitford</title>
+    <link>https://AnthonyWhitford.com/tags/splunk/</link>
+    <description>Recent content in Splunk on Anthony Whitford</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://AnthonyWhitford.com/tags/splunk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enterprise DevOps Pipeline</title>
+      <link>https://AnthonyWhitford.com/projects/creations/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/creations/devops/</guid>
+      <description>DevOps is an important cultural shift that breaks down barriers between development and operations allowing organizations to create and improve solutions efficiently using automated processes. The Enterprise DevOps Pipeline was a uniform, automated process of transforming source code changes into delivered solutions.
+This project:
+ Introduced new tools, such as GitHub, Jenkins, Docker, Vault, Splunk, Ansible, and Terraform Created a DevOps Community of Practice to aid adoption Promoted best practices, such as Continuous Integration and Continuous Delivery (CI/CD), Secrets Management, and the Twelve Factors Provided more flexibility to developers for crafting solutions, while providing transparency to operations through Infrastructure as Code (IaC) Supported a variety of technology platforms (Java, JavaScript, Python, Scala, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

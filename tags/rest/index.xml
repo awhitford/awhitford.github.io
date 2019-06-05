@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>REST on Anthony Whitford</title>
+    <link>https://AnthonyWhitford.com/tags/rest/</link>
+    <description>Recent content in REST on Anthony Whitford</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://AnthonyWhitford.com/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compliance Service</title>
+      <link>https://AnthonyWhitford.com/projects/creations/compliance-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/creations/compliance-service/</guid>
+      <description>Maintaining portfolio compliance is an increasingly challenging problem with regulations constantly changing, investment mandates becoming more sophisticated, and the need to transact at internet speeds. Automation is the only way to scale; an investment manager requires a sophisticated solution that can adapt to the ever changing business rules, and integrate efficiently into the trading workflow. Many investment managers can choose COTS, but sometimes that may not be up to the challenge to address edge cases, or evolve at the pace required by customers.</description>
+    </item>
+    
+    <item>
+      <title>Enterprise JIRA Reporting</title>
+      <link>https://AnthonyWhitford.com/projects/creations/jira-reporting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/creations/jira-reporting/</guid>
+      <description>JIRA is a great issue tracking system and can be really critical for agile teams. Alas, out of the box reporting leaves a lot to be desired.
+This project:
+ Provided several reports that could be run across multiple JIRA projects so that teams may maintain multiple JIRA projects, often one per software component, yet still view a holistic report relevant for the team, project budget, or developer. Leveraged the Work Log feature in JIRA to build accurate Time Sheet reports based on actual activity spent on issues leading to more accurate time sheets and less administrative burden.</description>
+    </item>
+    
+    <item>
+      <title>Production Control</title>
+      <link>https://AnthonyWhitford.com/projects/creations/production-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/creations/production-control/</guid>
+      <description>Many enterprises have thousands of automated jobs that run throughout the day and into the night that are critical to business operations. Monitoring these jobs 24x7 and dealing with failures used to require a team.
+This project replaced manual job monitoring, alert escalation, and teleconference management with a fully automated solution.
+ Alarms were received from AutoSys and routed to the appropriate team to investigate and resolve Workflow ensured that alarms were acknowledged and resolved Architected for redundancy; backup controls were in place to ensure uninterrupted monitoring Integrated with xMatters for alert escalation and teleconference management, using REST web services  Benefits included:</description>
+    </item>
+    
+  </channel>
+</rss>

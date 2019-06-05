@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lombok on Anthony Whitford</title>
+    <link>https://AnthonyWhitford.com/tags/lombok/</link>
+    <description>Recent content in Lombok on Anthony Whitford</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://AnthonyWhitford.com/tags/lombok/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compliance Service</title>
+      <link>https://AnthonyWhitford.com/projects/creations/compliance-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/creations/compliance-service/</guid>
+      <description>Maintaining portfolio compliance is an increasingly challenging problem with regulations constantly changing, investment mandates becoming more sophisticated, and the need to transact at internet speeds. Automation is the only way to scale; an investment manager requires a sophisticated solution that can adapt to the ever changing business rules, and integrate efficiently into the trading workflow. Many investment managers can choose COTS, but sometimes that may not be up to the challenge to address edge cases, or evolve at the pace required by customers.</description>
+    </item>
+    
+    <item>
+      <title>Lombok Maven Plugin</title>
+      <link>https://AnthonyWhitford.com/projects/contributions/lombok-maven-plugin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/contributions/lombok-maven-plugin/</guid>
+      <description>Project Lombok is an innovative Java library where one can use shorthand to generate code. It has many useful features, such as:
+ Automatic generation of hashCode, equals, and toString methods for a POJO @Data provides functionality similar to a Scala Case Class in Java @Value is similar to @Data, but for immutable classes @Builder is a convenient way to add a Builder pattern to a POJO  Using Lombok can help by:</description>
+    </item>
+    
+  </channel>
+</rss>

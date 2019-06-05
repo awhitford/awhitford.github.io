@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Anthony Whitford</title>
+    <link>https://AnthonyWhitford.com/tags/java/</link>
+    <description>Recent content in Java on Anthony Whitford</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://AnthonyWhitford.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compliance Service</title>
+      <link>https://AnthonyWhitford.com/projects/creations/compliance-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/creations/compliance-service/</guid>
+      <description>Maintaining portfolio compliance is an increasingly challenging problem with regulations constantly changing, investment mandates becoming more sophisticated, and the need to transact at internet speeds. Automation is the only way to scale; an investment manager requires a sophisticated solution that can adapt to the ever changing business rules, and integrate efficiently into the trading workflow. Many investment managers can choose COTS, but sometimes that may not be up to the challenge to address edge cases, or evolve at the pace required by customers.</description>
+    </item>
+    
+    <item>
+      <title>Lombok Maven Plugin</title>
+      <link>https://AnthonyWhitford.com/projects/contributions/lombok-maven-plugin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/contributions/lombok-maven-plugin/</guid>
+      <description>Project Lombok is an innovative Java library where one can use shorthand to generate code. It has many useful features, such as:
+ Automatic generation of hashCode, equals, and toString methods for a POJO @Data provides functionality similar to a Scala Case Class in Java @Value is similar to @Data, but for immutable classes @Builder is a convenient way to add a Builder pattern to a POJO  Using Lombok can help by:</description>
+    </item>
+    
+    <item>
+      <title>OWASP Dependency Check</title>
+      <link>https://AnthonyWhitford.com/projects/contributions/owasp-dependency-check/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/contributions/owasp-dependency-check/</guid>
+      <description>OWASP Dependency Check is an open source solution designed to detect known vulnerabilities from dependencies. It cross checks project dependencies against the National Vulnerability Database and reports known vulnerabilities with its severity score.
+I was inspired to contribute to this project after attending an OWASP conference in 2015. My contributions include:
+ instrumented code to identify how long certain steps were taking ⌚️ optimized code so that it would run faster 🚀 added features to avoid costly, redundant downloads of the National Vulnerability Database saving several minutes during builds  All resulted in making it easier to integrate into a CI/CD pipeline and thus promoting adoption, leading to greater awareness of vulnerabilities and more secure solutions.</description>
+    </item>
+    
+    <item>
+      <title>PRISM</title>
+      <link>https://AnthonyWhitford.com/projects/creations/prism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/creations/prism/</guid>
+      <description>Led a team to build Portfolio Risk Information System Management (PRISM), a global investment management platform that connects information, people and technology required to manage money in real time. It covered the full investment process across asset classes, including:
+ A single view of truth, updated in real time Institutionalized business processes Constituent level benchmark data and security analytics Ability to analyze risk across multiple dimensions Industry leading level of automation for portfolio compliance Integration with trading networks Straight Through Processing, including integration with brokers and custodians via SWIFT and FIX GIPS performance reporting and performance attribution  Benefits included:</description>
+    </item>
+    
+  </channel>
+</rss>
