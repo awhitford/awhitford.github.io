@@ -1,14 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source on Anthony Whitford</title>
     <link>https://AnthonyWhitford.com/tags/open-source/</link>
     <description>Recent content in Open Source on Anthony Whitford</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animated Text Kit</title>
+      <link>https://AnthonyWhitford.com/projects/contributions/animated-text-kit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/contributions/animated-text-kit/</guid>
+      <description>Animated Text Kit is a Flutter package that contains a collection of some cool and awesome text animations:
+ Colorize Fade Rotate Scale TextLiquidFill Typer Typewriter Wavy  I am a collaborator on this project and contribute changes that help make this project better.</description>
+    </item>
     
-	<atom:link href="https://AnthonyWhitford.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Flutter FormBuilder</title>
+      <link>https://AnthonyWhitford.com/projects/contributions/flutter_form_builder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/contributions/flutter_form_builder/</guid>
+      <description>Flutter FormBuilder is an innovative Flutter package that helps creating and managing forms in Flutter. It:
+ reduces the boilerplate needed to build forms validates fields reacts to changes collects the values for the form  I am a collaborator on this project and contribute changes that help make this project better.</description>
+    </item>
     
     <item>
       <title>Lombok Maven Plugin</title>
@@ -28,7 +44,7 @@
       <guid>https://AnthonyWhitford.com/projects/contributions/owasp-dependency-check/</guid>
       <description>OWASP Dependency Check is an open source solution designed to detect known vulnerabilities from dependencies. It cross checks project dependencies against the National Vulnerability Database and reports known vulnerabilities with its severity score.
 I was inspired to contribute to this project after attending an OWASP conference in 2015. My contributions include:
- instrumented code to identify how long certain steps were taking ⌚️ optimized code so that it would run faster 🚀 added features to avoid costly, redundant downloads of the National Vulnerability Database saving several minutes during builds  All resulted in making it easier to integrate into a CI/CD pipeline and thus promoting adoption, leading to greater awareness of vulnerabilities and more secure solutions.</description>
+ instrumented code to identify how long certain steps were taking ⌚ optimized code so that it would run faster 🚀 added features to avoid costly, redundant downloads of the National Vulnerability Database saving several minutes during builds  All resulted in making it easier to integrate into a CI/CD pipeline and thus promoting adoption, leading to greater awareness of vulnerabilities and more secure solutions.</description>
     </item>
     
   </channel>

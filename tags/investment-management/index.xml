@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Investment Management on Anthony Whitford</title>
     <link>https://AnthonyWhitford.com/tags/investment-management/</link>
     <description>Recent content in Investment Management on Anthony Whitford</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://AnthonyWhitford.com/tags/investment-management/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/investment-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compliance Service</title>
       <link>https://AnthonyWhitford.com/projects/creations/compliance-service/</link>

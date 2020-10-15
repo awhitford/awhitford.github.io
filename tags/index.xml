@@ -1,24 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Anthony Whitford</title>
     <link>https://AnthonyWhitford.com/tags/</link>
     <description>Recent content in Tags on Anthony Whitford</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://AnthonyWhitford.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>AWS</title>
-      <link>https://AnthonyWhitford.com/tags/aws/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/tags/aws/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agile</title>
       <link>https://AnthonyWhitford.com/tags/agile/</link>
@@ -34,6 +21,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://AnthonyWhitford.com/tags/akka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animation</title>
+      <link>https://AnthonyWhitford.com/tags/animation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/animation/</guid>
       <description></description>
     </item>
     
@@ -65,6 +61,15 @@
     </item>
     
     <item>
+      <title>AWS</title>
+      <link>https://AnthonyWhitford.com/tags/aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bootstrap</title>
       <link>https://AnthonyWhitford.com/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -74,20 +79,20 @@
     </item>
     
     <item>
-      <title>CI/CD</title>
-      <link>https://AnthonyWhitford.com/tags/ci/cd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/tags/ci/cd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Caching</title>
       <link>https://AnthonyWhitford.com/tags/caching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://AnthonyWhitford.com/tags/caching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>https://AnthonyWhitford.com/tags/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/ci/cd/</guid>
       <description></description>
     </item>
     
@@ -119,11 +124,11 @@
     </item>
     
     <item>
-      <title>DMBOK</title>
-      <link>https://AnthonyWhitford.com/tags/dmbok/</link>
+      <title>Dart</title>
+      <link>https://AnthonyWhitford.com/tags/dart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://AnthonyWhitford.com/tags/dmbok/</guid>
+      <guid>https://AnthonyWhitford.com/tags/dart/</guid>
       <description></description>
     </item>
     
@@ -142,6 +147,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://AnthonyWhitford.com/tags/devsecops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DMBOK</title>
+      <link>https://AnthonyWhitford.com/tags/dmbok/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/dmbok/</guid>
       <description></description>
     </item>
     
@@ -169,6 +183,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://AnthonyWhitford.com/tags/fintech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>https://AnthonyWhitford.com/tags/flutter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework</title>
+      <link>https://AnthonyWhitford.com/tags/framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/framework/</guid>
       <description></description>
     </item>
     
@@ -236,24 +268,6 @@
     </item>
     
     <item>
-      <title>JDBC</title>
-      <link>https://AnthonyWhitford.com/tags/jdbc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/tags/jdbc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JIRA</title>
-      <link>https://AnthonyWhitford.com/tags/jira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/tags/jira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Java</title>
       <link>https://AnthonyWhitford.com/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -263,11 +277,29 @@
     </item>
     
     <item>
+      <title>JDBC</title>
+      <link>https://AnthonyWhitford.com/tags/jdbc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/jdbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jenkins</title>
       <link>https://AnthonyWhitford.com/tags/jenkins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://AnthonyWhitford.com/tags/jenkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JIRA</title>
+      <link>https://AnthonyWhitford.com/tags/jira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/jira/</guid>
       <description></description>
     </item>
     
@@ -335,20 +367,20 @@
     </item>
     
     <item>
-      <title>OWASP Top Ten</title>
-      <link>https://AnthonyWhitford.com/tags/owasp-top-ten/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/tags/owasp-top-ten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Open Source</title>
       <link>https://AnthonyWhitford.com/tags/open-source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://AnthonyWhitford.com/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OWASP Top Ten</title>
+      <link>https://AnthonyWhitford.com/tags/owasp-top-ten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/owasp-top-ten/</guid>
       <description></description>
     </item>
     
@@ -362,15 +394,6 @@
     </item>
     
     <item>
-      <title>REST</title>
-      <link>https://AnthonyWhitford.com/tags/rest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/tags/rest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reference Architecture</title>
       <link>https://AnthonyWhitford.com/tags/reference-architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -380,20 +403,20 @@
     </item>
     
     <item>
+      <title>REST</title>
+      <link>https://AnthonyWhitford.com/tags/rest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>S3</title>
       <link>https://AnthonyWhitford.com/tags/s3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://AnthonyWhitford.com/tags/s3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SDLC</title>
-      <link>https://AnthonyWhitford.com/tags/sdlc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/tags/sdlc/</guid>
       <description></description>
     </item>
     
@@ -412,6 +435,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://AnthonyWhitford.com/tags/scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDLC</title>
+      <link>https://AnthonyWhitford.com/tags/sdlc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/tags/sdlc/</guid>
       <description></description>
     </item>
     

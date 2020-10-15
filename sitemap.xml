@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -19,13 +19,7 @@
   </url>
   
   <url>
-    <loc>https://AnthonyWhitford.com/tags/aws/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://AnthonyWhitford.com/tags/agile/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -34,47 +28,50 @@
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/akka/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/projects/contributions/animated-text-kit/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/tags/animation/</loc>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/apache-spark/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/artifactory/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/autosys/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/tags/aws/</loc>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/bootstrap/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://AnthonyWhitford.com/tags/ci/cd/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/caching/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/categories/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/tags/ci/cd/</loc>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/coldfusion/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -83,17 +80,14 @@
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/cultural/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/dama/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://AnthonyWhitford.com/tags/dmbok/</loc>
-    <priority>0</priority>
+    <loc>https://AnthonyWhitford.com/tags/dart/</loc>
   </url>
   
   <url>
@@ -102,17 +96,18 @@
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/denodo/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/devsecops/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/tags/dmbok/</loc>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/docker/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -129,82 +124,78 @@
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/extjs/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/fintech/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/tags/flutter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/projects/contributions/flutter_form_builder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/tags/framework/</loc>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/gamification/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/gartner/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/github/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/hashicorp-vault/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/iac/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/innovation/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/investment-management/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://AnthonyWhitford.com/tags/jdbc/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://AnthonyWhitford.com/tags/jira/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/java/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/tags/jdbc/</loc>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/jenkins/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/tags/jira/</loc>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/lift/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/liquibase/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/lombok/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -213,22 +204,22 @@
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/maven/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/microservices/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/microsoft-sql-server/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/mobile/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/tags/open-source/</loc>
   </url>
   
   <url>
@@ -237,21 +228,14 @@
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/owasp-top-ten/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://AnthonyWhitford.com/tags/open-source/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://AnthonyWhitford.com/projects/creations/prism/</loc>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/play/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/projects/creations/prism/</loc>
   </url>
   
   <url>
@@ -264,33 +248,27 @@
   </url>
   
   <url>
-    <loc>https://AnthonyWhitford.com/tags/rest/</loc>
-    <priority>0</priority>
+    <loc>https://AnthonyWhitford.com/tags/reference-architecture/</loc>
   </url>
   
   <url>
-    <loc>https://AnthonyWhitford.com/tags/reference-architecture/</loc>
-    <priority>0</priority>
+    <loc>https://AnthonyWhitford.com/tags/rest/</loc>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/s3/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://AnthonyWhitford.com/tags/sdlc/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/scala/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/scalable/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://AnthonyWhitford.com/tags/sdlc/</loc>
   </url>
   
   <url>
@@ -300,42 +278,34 @@
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/security/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/snowflake/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/splunk/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/spring/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/technical-debt/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/web/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://AnthonyWhitford.com/tags/xmatters/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,0 +1,52 @@
+body {
+  color: #303030;
+}
+
+
+/* Side Nav */
+.bg-primary {
+    background-color: #440066 !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #DEADEF;
+}
+
+
+/* Replace the Orange #BD5D38... */
+.list-social-icons a:hover {
+  color: #440066;
+}
+
+.list-icons .list-inline-item i:hover {
+  color: #440066;
+}
+
+.bg-primary {
+  background-color: #440066 !important;
+}
+
+.text-primary {
+  color: #440066 !important;
+}
+
+a {
+  color: #440066;
+}
+
+/* Replace the Orange #824027... */
+a:hover, a:focus, a:active {
+  color: #6400FF;
+}
+
+
+/* Replace Tags coloring */
+.tag {
+  color: #440066;
+}
+
+
+/*
+.resume-content {
+  width: 200px !important;
+}
+*/

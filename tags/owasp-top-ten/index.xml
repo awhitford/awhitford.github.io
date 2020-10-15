@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OWASP Top Ten on Anthony Whitford</title>
     <link>https://AnthonyWhitford.com/tags/owasp-top-ten/</link>
     <description>Recent content in OWASP Top Ten on Anthony Whitford</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://AnthonyWhitford.com/tags/owasp-top-ten/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/owasp-top-ten/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OWASP Dependency Check</title>
       <link>https://AnthonyWhitford.com/projects/contributions/owasp-dependency-check/</link>
@@ -18,7 +14,7 @@
       <guid>https://AnthonyWhitford.com/projects/contributions/owasp-dependency-check/</guid>
       <description>OWASP Dependency Check is an open source solution designed to detect known vulnerabilities from dependencies. It cross checks project dependencies against the National Vulnerability Database and reports known vulnerabilities with its severity score.
 I was inspired to contribute to this project after attending an OWASP conference in 2015. My contributions include:
- instrumented code to identify how long certain steps were taking ⌚️ optimized code so that it would run faster 🚀 added features to avoid costly, redundant downloads of the National Vulnerability Database saving several minutes during builds  All resulted in making it easier to integrate into a CI/CD pipeline and thus promoting adoption, leading to greater awareness of vulnerabilities and more secure solutions.</description>
+ instrumented code to identify how long certain steps were taking ⌚ optimized code so that it would run faster 🚀 added features to avoid costly, redundant downloads of the National Vulnerability Database saving several minutes during builds  All resulted in making it easier to integrate into a CI/CD pipeline and thus promoting adoption, leading to greater awareness of vulnerabilities and more secure solutions.</description>
     </item>
     
   </channel>

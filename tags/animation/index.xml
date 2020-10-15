@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation on Anthony Whitford</title>
+    <link>https://AnthonyWhitford.com/tags/animation/</link>
+    <description>Recent content in Animation on Anthony Whitford</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animated Text Kit</title>
+      <link>https://AnthonyWhitford.com/projects/contributions/animated-text-kit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AnthonyWhitford.com/projects/contributions/animated-text-kit/</guid>
+      <description>Animated Text Kit is a Flutter package that contains a collection of some cool and awesome text animations:
+ Colorize Fade Rotate Scale TextLiquidFill Typer Typewriter Wavy  I am a collaborator on this project and contribute changes that help make this project better.</description>
+    </item>
+    
+  </channel>
+</rss>

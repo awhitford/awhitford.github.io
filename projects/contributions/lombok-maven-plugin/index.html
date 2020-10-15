@@ -3,24 +3,34 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Lombok Maven Plugin</title>
-  <meta property="og:title" content="Lombok Maven Plugin" />
+  <title>Anthony Whitford | Lombok Maven Plugin</title>
+  <meta property="og:title" content="Anthony Whitford | Lombok Maven Plugin" />
   <meta property="og:image" content="https://AnthonyWhitford.com/img/anthony-headshot.jpg" />
-  <meta name="description" content="Executive profile of Anthony Whitford, Senior Technology Executive.">
-  <meta property="og:description" content="Executive profile of Anthony Whitford, Senior Technology Executive." />
+  <meta name="description" content="Project Lombok is an innovative Java library where one can use shorthand to generate code.  I built the official Maven Plugin for the project.">
+  <meta property="og:description" content="Project Lombok is an innovative Java library where one can use shorthand to generate code.  I built the official Maven Plugin for the project." />
   <meta name="author" content="Anthony Whitford">
   
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css"></noscript>
   
-  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
-  <link href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" rel="stylesheet">
-  <link href='https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css' rel='stylesheet'>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" rel="stylesheet">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900&display=swap"></noscript>
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+      <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&display=swap"></noscript>
+  <link rel="preload" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css"></noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/devicons/1.8.0/css/devicons.min.css"></noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css"></noscript>
   
-  <link href="https://AnthonyWhitford.com/css/resume.css" rel="stylesheet">
-  <link href="https://AnthonyWhitford.com/css/tweaks.css" rel="stylesheet">
-  <meta name="generator" content="Hugo 0.55.5" />
+  <link rel="preload" href="https://AnthonyWhitford.com/css/resume.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://AnthonyWhitford.com/css/resume.css"></noscript>
+  <link rel="preload" href="https://AnthonyWhitford.com/css/tweaks.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://AnthonyWhitford.com/css/tweaks.css"></noscript>
+  <link rel="preload" href="https://AnthonyWhitford.com/css/resume-override.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://AnthonyWhitford.com/css/resume-override.css"></noscript>
+  <meta name="generator" content="Hugo 0.76.4" />
   
    
   
@@ -113,25 +123,20 @@
   <div class="my-auto">
     <h2 class="mb-0"><span class="text-primary">Lombok Maven Plugin</span></h2>
     <p><a href="https://projectlombok.org/">Project Lombok</a> is an innovative Java library where one can use shorthand to generate code.  It has many useful <a href="https://projectlombok.org/features/all">features</a>, such as:</p>
-
 <ul>
 <li>Automatic generation of <code>hashCode</code>, <code>equals</code>, and <code>toString</code> methods for a POJO</li>
 <li><a href="https://projectlombok.org/features/Data"><code>@Data</code></a> provides functionality similar to a <em>Scala Case Class</em> in Java</li>
 <li><a href="https://projectlombok.org/features/Value"><code>@Value</code></a> is similar to <code>@Data</code>, but for <em>immutable</em> classes</li>
 <li><a href="https://projectlombok.org/features/Builder"><code>@Builder</code></a> is a convenient way to add a <em>Builder pattern</em> to a POJO</li>
 </ul>
-
 <p>Using Lombok can help by:</p>
-
 <ul>
 <li>coding faster; short-hand can save writing tons of boilerplate code</li>
 <li>ensuring correctness; never miss a field in <code>hashCode</code> or <code>equals</code> since they are generated at build time</li>
 <li>adopting immutability; immutable classes do not require thread synchronization, which can help build scalable solutions</li>
 <li>being explicit with exceptions; if a field needs to be excluded, one can call that out explicitly</li>
 </ul>
-
 <p>I volunteered to write and maintain the  <em>Lombok Maven Plugin</em>, the official Maven Plugin for Project Lombok, because I found value in the project, but did not appreciate that it broke many of the Maven reports.  The plugin can run <code>delombok</code> against the source code at build time, translating the short-hand into Java code that can then be processed by other tools, such as JavaDoc, Source Xref, and Unit Testing reports.</p>
-
 <p>This plugin is used by folks all over the world.</p>
 
     <p>Project link: <a href="https://awhitford.github.io/lombok.maven/lombok-maven-plugin/">https://awhitford.github.io/lombok.maven/lombok-maven-plugin/</a></p>
@@ -156,12 +161,12 @@
   </div>
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
+  <script async src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
 
   
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+  <script async src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
   
-  <script src="/js/resume.js"></script>
+  <script async src="/js/resume.js"></script>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140511143-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
