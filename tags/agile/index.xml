@@ -1,43 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Agile on Anthony Whitford</title>
-    <link>https://AnthonyWhitford.com/tags/agile/</link>
-    <description>Recent content in Agile on Anthony Whitford</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/agile/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Agile Transformation</title>
-      <link>https://AnthonyWhitford.com/projects/creations/agile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/agile/</guid>
-      <description>According to Forbes, the proper response to digital disruption is agility. Agile empowers employees, responds to ambiguity, and embraces change. It has grown beyond IT, and can benefit the whole organization.
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agile on Anthony Whitford</title><link>https://AnthonyWhitford.com/tags/agile/</link><description>Recent content in Agile on Anthony Whitford</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/agile/index.xml" rel="self" type="application/rss+xml"/><item><title>Agile Transformation</title><link>https://AnthonyWhitford.com/projects/creations/agile/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/agile/</guid><description>According to Forbes, the proper response to digital disruption is agility. Agile empowers employees, responds to ambiguity, and embraces change. It has grown beyond IT, and can benefit the whole organization.
 This program:
- Engaged Certified Scrum Trainers to train and coach staff &amp;ndash; both IT and business leaders Reorganized staff to create effective teams Regularly assessed agile maturity of teams, and outlined steps for improvement Created a Community of Practice to gather feedback from teams, share best practices, and discuss challenges Revised policies that were inconsistent with the agile mindset  Benefits included:</description>
-    </item>
-    
-    <item>
-      <title>Enterprise JIRA Reporting</title>
-      <link>https://AnthonyWhitford.com/projects/creations/jira-reporting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/jira-reporting/</guid>
-      <description>JIRA is a great issue tracking system and can be really critical for agile teams. Alas, out of the box reporting leaves a lot to be desired.
+Engaged Certified Scrum Trainers to train and coach staff &amp;ndash; both IT and business leaders Reorganized staff to create effective teams Regularly assessed agile maturity of teams, and outlined steps for improvement Created a Community of Practice to gather feedback from teams, share best practices, and discuss challenges Revised policies that were inconsistent with the agile mindset Benefits included:</description></item><item><title>Enterprise JIRA Reporting</title><link>https://AnthonyWhitford.com/projects/creations/jira-reporting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/jira-reporting/</guid><description>JIRA is a great issue tracking system and can be really critical for agile teams. Alas, out of the box reporting leaves a lot to be desired.
 This project:
- Provided several reports that could be run across multiple JIRA projects so that teams may maintain multiple JIRA projects, often one per software component, yet still view a holistic report relevant for the team, project budget, or developer. Leveraged the Work Log feature in JIRA to build accurate Time Sheet reports based on actual activity spent on issues leading to more accurate time sheets and less administrative burden.</description>
-    </item>
-    
-    <item>
-      <title>PRISM</title>
-      <link>https://AnthonyWhitford.com/projects/creations/prism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/prism/</guid>
-      <description>Led a team to build Portfolio Risk Information System Management (PRISM), a global investment management platform that connects information, people and technology required to manage money in real time. It covered the full investment process across asset classes, including:
- A single view of truth, updated in real time Institutionalized business processes Constituent level benchmark data and security analytics Ability to analyze risk across multiple dimensions Industry leading level of automation for portfolio compliance Integration with trading networks Straight Through Processing, including integration with brokers and custodians via SWIFT and FIX GIPS performance reporting and performance attribution  Benefits included:</description>
-    </item>
-    
-  </channel>
-</rss>
+Provided several reports that could be run across multiple JIRA projects so that teams may maintain multiple JIRA projects, often one per software component, yet still view a holistic report relevant for the team, project budget, or developer. Leveraged the Work Log feature in JIRA to build accurate Time Sheet reports based on actual activity spent on issues leading to more accurate time sheets and less administrative burden.</description></item><item><title>PRISM</title><link>https://AnthonyWhitford.com/projects/creations/prism/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/prism/</guid><description>Led a team to build Portfolio Risk Information System Management (PRISM), a global investment management platform that connects information, people and technology required to manage money in real time. It covered the full investment process across asset classes, including:
+A single view of truth, updated in real time Institutionalized business processes Constituent level benchmark data and security analytics Ability to analyze risk across multiple dimensions Industry leading level of automation for portfolio compliance Integration with trading networks Straight Through Processing, including integration with brokers and custodians via SWIFT and FIX GIPS performance reporting and performance attribution Benefits included:</description></item></channel></rss>

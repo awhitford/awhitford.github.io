@@ -1,163 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Anthony Whitford</title>
-    <link>https://AnthonyWhitford.com/</link>
-    <description>Recent content in Home on Anthony Whitford</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 18 May 2019 13:00:00 -0700</lastBuildDate><atom:link href="https://AnthonyWhitford.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Agile Transformation</title>
-      <link>https://AnthonyWhitford.com/projects/creations/agile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/agile/</guid>
-      <description>According to Forbes, the proper response to digital disruption is agility. Agile empowers employees, responds to ambiguity, and embraces change. It has grown beyond IT, and can benefit the whole organization.
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Anthony Whitford</title><link>https://AnthonyWhitford.com/</link><description>Recent content in Home on Anthony Whitford</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 18 May 2019 13:00:00 -0700</lastBuildDate><atom:link href="https://AnthonyWhitford.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Agile Transformation</title><link>https://AnthonyWhitford.com/projects/creations/agile/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/agile/</guid><description>According to Forbes, the proper response to digital disruption is agility. Agile empowers employees, responds to ambiguity, and embraces change. It has grown beyond IT, and can benefit the whole organization.
 This program:
- Engaged Certified Scrum Trainers to train and coach staff &amp;ndash; both IT and business leaders Reorganized staff to create effective teams Regularly assessed agile maturity of teams, and outlined steps for improvement Created a Community of Practice to gather feedback from teams, share best practices, and discuss challenges Revised policies that were inconsistent with the agile mindset  Benefits included:</description>
-    </item>
-    
-    <item>
-      <title>Animated Text Kit</title>
-      <link>https://AnthonyWhitford.com/projects/contributions/animated-text-kit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/contributions/animated-text-kit/</guid>
-      <description>Animated Text Kit is a Flutter package that contains a collection of some cool and awesome text animations:
- Colorize Fade Rotate Scale TextLiquidFill Typer Typewriter Wavy  I am a collaborator on this project and contribute changes that help make this project better.</description>
-    </item>
-    
-    <item>
-      <title>Compliance Service</title>
-      <link>https://AnthonyWhitford.com/projects/creations/compliance-service/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/compliance-service/</guid>
-      <description>Maintaining portfolio compliance is an increasingly challenging problem with regulations constantly changing, investment mandates becoming more sophisticated, and the need to transact at internet speeds. Automation is the only way to scale; an investment manager requires a sophisticated solution that can adapt to the ever changing business rules, and integrate efficiently into the trading workflow. Many investment managers can choose COTS, but sometimes that may not be up to the challenge to address edge cases, or evolve at the pace required by customers.</description>
-    </item>
-    
-    <item>
-      <title>Data Architecture Modernization</title>
-      <link>https://AnthonyWhitford.com/projects/creations/data-architecture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/data-architecture/</guid>
-      <description>The Data-Centric Manifesto posits that data is the center of the universe, and the trends around Data Science support the value proposition of data. Trends around adopting Data Governance is a reflection of organizations having increasingly complex data architectures, and the critical importance of quality data. Organizations require comprehensive capabilities and processes around data; the DMBOK Wheel summarizes the challenges.
+Engaged Certified Scrum Trainers to train and coach staff &amp;ndash; both IT and business leaders Reorganized staff to create effective teams Regularly assessed agile maturity of teams, and outlined steps for improvement Created a Community of Practice to gather feedback from teams, share best practices, and discuss challenges Revised policies that were inconsistent with the agile mindset Benefits included:</description></item><item><title>Animated Text Kit</title><link>https://AnthonyWhitford.com/projects/contributions/animated-text-kit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/contributions/animated-text-kit/</guid><description>Animated Text Kit is a Flutter package that contains a collection of some cool and awesome text animations:
+Colorize Fade Rotate Scale TextLiquidFill Typer Typewriter Wavy I am a collaborator on this project and contribute changes that help make this project better.</description></item><item><title>Compliance Service</title><link>https://AnthonyWhitford.com/projects/creations/compliance-service/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/compliance-service/</guid><description>Maintaining portfolio compliance is an increasingly challenging problem with regulations constantly changing, investment mandates becoming more sophisticated, and the need to transact at internet speeds. Automation is the only way to scale; an investment manager requires a sophisticated solution that can adapt to the ever changing business rules, and integrate efficiently into the trading workflow. Many investment managers can choose COTS, but sometimes that may not be up to the challenge to address edge cases, or evolve at the pace required by customers.</description></item><item><title>Data Architecture Modernization</title><link>https://AnthonyWhitford.com/projects/creations/data-architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/data-architecture/</guid><description>The Data-Centric Manifesto posits that data is the center of the universe, and the trends around Data Science support the value proposition of data. Trends around adopting Data Governance is a reflection of organizations having increasingly complex data architectures, and the critical importance of quality data. Organizations require comprehensive capabilities and processes around data; the DMBOK Wheel summarizes the challenges.
 This project:
- Hired dedicated Data Architects to help lead the data architecture modernization initiative Rationalized feedback with DMBOK to develop vision, do a gap analysis, and prioritize Partnered with the new Enterprise Data team to promote Data Governance Explored new solutions, conducted proof of concepts, and purchased new capabilities Established a Community of Practice for Data Architecture to communicate new capabilities, best practices, and discuss challenges  Benefits included:</description>
-    </item>
-    
-    <item>
-      <title>Enterprise DevOps Pipeline</title>
-      <link>https://AnthonyWhitford.com/projects/creations/devops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/devops/</guid>
-      <description>DevOps is an important cultural shift that breaks down barriers between development and operations allowing organizations to create and improve solutions efficiently using automated processes. The Enterprise DevOps Pipeline was a uniform, automated process of transforming source code changes into delivered solutions.
+Hired dedicated Data Architects to help lead the data architecture modernization initiative Rationalized feedback with DMBOK to develop vision, do a gap analysis, and prioritize Partnered with the new Enterprise Data team to promote Data Governance Explored new solutions, conducted proof of concepts, and purchased new capabilities Established a Community of Practice for Data Architecture to communicate new capabilities, best practices, and discuss challenges Benefits included:</description></item><item><title>Enterprise DevOps Pipeline</title><link>https://AnthonyWhitford.com/projects/creations/devops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/devops/</guid><description>DevOps is an important cultural shift that breaks down barriers between development and operations allowing organizations to create and improve solutions efficiently using automated processes. The Enterprise DevOps Pipeline was a uniform, automated process of transforming source code changes into delivered solutions.
 This project:
- Introduced new tools, such as GitHub, Jenkins, Docker, Vault, Splunk, Ansible, and Terraform Created a DevOps Community of Practice to aid adoption Promoted best practices, such as Continuous Integration and Continuous Delivery (CI/CD), Secrets Management, and the Twelve Factors Provided more flexibility to developers for crafting solutions, while providing transparency to operations through Infrastructure as Code (IaC) Supported a variety of technology platforms (Java, JavaScript, Python, Scala, etc.</description>
-    </item>
-    
-    <item>
-      <title>Enterprise JIRA Reporting</title>
-      <link>https://AnthonyWhitford.com/projects/creations/jira-reporting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/jira-reporting/</guid>
-      <description>JIRA is a great issue tracking system and can be really critical for agile teams. Alas, out of the box reporting leaves a lot to be desired.
+Introduced new tools, such as GitHub, Jenkins, Docker, Vault, Splunk, Ansible, and Terraform Created a DevOps Community of Practice to aid adoption Promoted best practices, such as Continuous Integration and Continuous Delivery (CI/CD), Secrets Management, and the Twelve Factors Provided more flexibility to developers for crafting solutions, while providing transparency to operations through Infrastructure as Code (IaC) Supported a variety of technology platforms (Java, JavaScript, Python, Scala, etc.</description></item><item><title>Enterprise JIRA Reporting</title><link>https://AnthonyWhitford.com/projects/creations/jira-reporting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/jira-reporting/</guid><description>JIRA is a great issue tracking system and can be really critical for agile teams. Alas, out of the box reporting leaves a lot to be desired.
 This project:
- Provided several reports that could be run across multiple JIRA projects so that teams may maintain multiple JIRA projects, often one per software component, yet still view a holistic report relevant for the team, project budget, or developer. Leveraged the Work Log feature in JIRA to build accurate Time Sheet reports based on actual activity spent on issues leading to more accurate time sheets and less administrative burden.</description>
-    </item>
-    
-    <item>
-      <title>Enterprise Technical Architecture Program</title>
-      <link>https://AnthonyWhitford.com/projects/creations/architecture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/architecture/</guid>
-      <description>Why Enterprise Architecture? Organizations of sufficient size and complexity need to organize themselves to make smart decisions, foster innovation, and avoid being overburdened by technical debt.
+Provided several reports that could be run across multiple JIRA projects so that teams may maintain multiple JIRA projects, often one per software component, yet still view a holistic report relevant for the team, project budget, or developer. Leveraged the Work Log feature in JIRA to build accurate Time Sheet reports based on actual activity spent on issues leading to more accurate time sheets and less administrative burden.</description></item><item><title>Enterprise Technical Architecture Program</title><link>https://AnthonyWhitford.com/projects/creations/architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/architecture/</guid><description>Why Enterprise Architecture? Organizations of sufficient size and complexity need to organize themselves to make smart decisions, foster innovation, and avoid being overburdened by technical debt.
 This program:
- Engaged Gartner Consulting to outline a modern Enterprise Architecture framework that focused on coaching and steering Established a Technical Architecture Committee with cross IT representation as a decision-making body that improved management of innovation and technical debt, and communicated standards Documented a Technical Reference Architecture, a living document that included guardrails (Principles, Patterns, and Standards) for teams Created a Center of Excellence to gather feedback from teams and help prioritize evolution Organized guest speakers and Lunch and Learns to raise awareness of industry trends  Benefits included:</description>
-    </item>
-    
-    <item>
-      <title>Flutter FormBuilder</title>
-      <link>https://AnthonyWhitford.com/projects/contributions/flutter_form_builder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/contributions/flutter_form_builder/</guid>
-      <description>Flutter FormBuilder is an innovative Flutter package that helps creating and managing forms in Flutter. It:
- reduces the boilerplate needed to build forms validates fields reacts to changes collects the values for the form  I am a collaborator on this project and contribute changes that help make this project better.</description>
-    </item>
-    
-    <item>
-      <title>Kozzet</title>
-      <link>https://AnthonyWhitford.com/projects/creations/kozzet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/kozzet/</guid>
-      <description>People love the convenience of mobile ordering at home, but what about when they are away from home? Kozzet adds mobile ordering and chat services to any hospitality provider. It is a great addition to hotels &amp;amp; resorts, golf &amp;amp; country clubs, entertainment venues, and restaurants &amp;amp; cafés.
+Engaged Gartner Consulting to outline a modern Enterprise Architecture framework that focused on coaching and steering Established a Technical Architecture Committee with cross IT representation as a decision-making body that improved management of innovation and technical debt, and communicated standards Documented a Technical Reference Architecture, a living document that included guardrails (Principles, Patterns, and Standards) for teams Created a Center of Excellence to gather feedback from teams and help prioritize evolution Organized guest speakers and Lunch and Learns to raise awareness of industry trends Benefits included:</description></item><item><title>Flutter FormBuilder</title><link>https://AnthonyWhitford.com/projects/contributions/flutter_form_builder/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/contributions/flutter_form_builder/</guid><description>Flutter FormBuilder is an innovative Flutter package that helps creating and managing forms in Flutter. It:
+reduces the boilerplate needed to build forms validates fields reacts to changes collects the values for the form I am a collaborator on this project and contribute changes that help make this project better.</description></item><item><title>Kozzet</title><link>https://AnthonyWhitford.com/projects/creations/kozzet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/kozzet/</guid><description>People love the convenience of mobile ordering at home, but what about when they are away from home? Kozzet adds mobile ordering and chat services to any hospitality provider. It is a great addition to hotels &amp;amp; resorts, golf &amp;amp; country clubs, entertainment venues, and restaurants &amp;amp; cafés.
 I founded the company:
- Bootstrapped the corporate infrastructure; setup email, web site, phone service, accounting, and CRM Developed a platform using cloud native architecture; created two mobile apps architected for global deployment: one for consumers, and the other for businesses Leveraged Firebase and Google Cloud, and integrated Twilio and Stripe Launched marketing campaigns using social media and print  Results included:</description>
-    </item>
-    
-    <item>
-      <title>Lombok Maven Plugin</title>
-      <link>https://AnthonyWhitford.com/projects/contributions/lombok-maven-plugin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/contributions/lombok-maven-plugin/</guid>
-      <description>Project Lombok is an innovative Java library where one can use shorthand to generate code. It has many useful features, such as:
- Automatic generation of hashCode, equals, and toString methods for a POJO @Data provides functionality similar to a Scala Case Class in Java @Value is similar to @Data, but for immutable classes @Builder is a convenient way to add a Builder pattern to a POJO  Using Lombok can help by:</description>
-    </item>
-    
-    <item>
-      <title>OWASP Dependency Check</title>
-      <link>https://AnthonyWhitford.com/projects/contributions/owasp-dependency-check/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/contributions/owasp-dependency-check/</guid>
-      <description>OWASP Dependency Check is an open source solution designed to detect known vulnerabilities from dependencies. It cross checks project dependencies against the National Vulnerability Database and reports known vulnerabilities with its severity score.
+Bootstrapped the corporate infrastructure; setup email, web site, phone service, accounting, and CRM Developed a platform using cloud native architecture; created two mobile apps architected for global deployment: one for consumers, and the other for businesses Leveraged Firebase and Google Cloud, and integrated Twilio and Stripe Launched marketing campaigns using social media and print Results included:</description></item><item><title>Lombok Maven Plugin</title><link>https://AnthonyWhitford.com/projects/contributions/lombok-maven-plugin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/contributions/lombok-maven-plugin/</guid><description>Project Lombok is an innovative Java library where one can use shorthand to generate code. It has many useful features, such as:
+Automatic generation of hashCode, equals, and toString methods for a POJO @Data provides functionality similar to a Scala Case Class in Java @Value is similar to @Data, but for immutable classes @Builder is a convenient way to add a Builder pattern to a POJO Using Lombok can help by:</description></item><item><title>OWASP Dependency Check</title><link>https://AnthonyWhitford.com/projects/contributions/owasp-dependency-check/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/contributions/owasp-dependency-check/</guid><description>OWASP Dependency Check is an open source solution designed to detect known vulnerabilities from dependencies. It cross checks project dependencies against the National Vulnerability Database and reports known vulnerabilities with its severity score.
 I was inspired to contribute to this project after attending an OWASP conference in 2015. My contributions include:
- instrumented code to identify how long certain steps were taking ⌚ optimized code so that it would run faster 🚀 added features to avoid costly, redundant downloads of the National Vulnerability Database saving several minutes during builds  All resulted in making it easier to integrate into a CI/CD pipeline and thus promoting adoption, leading to greater awareness of vulnerabilities and more secure solutions.</description>
-    </item>
-    
-    <item>
-      <title>PRISM</title>
-      <link>https://AnthonyWhitford.com/projects/creations/prism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/prism/</guid>
-      <description>Led a team to build Portfolio Risk Information System Management (PRISM), a global investment management platform that connects information, people and technology required to manage money in real time. It covered the full investment process across asset classes, including:
- A single view of truth, updated in real time Institutionalized business processes Constituent level benchmark data and security analytics Ability to analyze risk across multiple dimensions Industry leading level of automation for portfolio compliance Integration with trading networks Straight Through Processing, including integration with brokers and custodians via SWIFT and FIX GIPS performance reporting and performance attribution  Benefits included:</description>
-    </item>
-    
-    <item>
-      <title>Production Control</title>
-      <link>https://AnthonyWhitford.com/projects/creations/production-control/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/production-control/</guid>
-      <description>Many enterprises have thousands of automated jobs that run throughout the day and into the night that are critical to business operations. Monitoring these jobs 24x7 and dealing with failures used to require a team.
+instrumented code to identify how long certain steps were taking ⌚ optimized code so that it would run faster 🚀 added features to avoid costly, redundant downloads of the National Vulnerability Database saving several minutes during builds All resulted in making it easier to integrate into a CI/CD pipeline and thus promoting adoption, leading to greater awareness of vulnerabilities and more secure solutions.</description></item><item><title>PRISM</title><link>https://AnthonyWhitford.com/projects/creations/prism/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/prism/</guid><description>Led a team to build Portfolio Risk Information System Management (PRISM), a global investment management platform that connects information, people and technology required to manage money in real time. It covered the full investment process across asset classes, including:
+A single view of truth, updated in real time Institutionalized business processes Constituent level benchmark data and security analytics Ability to analyze risk across multiple dimensions Industry leading level of automation for portfolio compliance Integration with trading networks Straight Through Processing, including integration with brokers and custodians via SWIFT and FIX GIPS performance reporting and performance attribution Benefits included:</description></item><item><title>Production Control</title><link>https://AnthonyWhitford.com/projects/creations/production-control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/production-control/</guid><description>Many enterprises have thousands of automated jobs that run throughout the day and into the night that are critical to business operations. Monitoring these jobs 24x7 and dealing with failures used to require a team.
 This project replaced manual job monitoring, alert escalation, and teleconference management with a fully automated solution.
- Alarms were received from AutoSys and routed to the appropriate team to investigate and resolve Workflow ensured that alarms were acknowledged and resolved Architected for redundancy; backup controls were in place to ensure uninterrupted monitoring Integrated with xMatters for alert escalation and teleconference management, using REST web services  Benefits included:</description>
-    </item>
-    
-    <item>
-      <title>Search Results</title>
-      <link>https://AnthonyWhitford.com/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
+Alarms were received from AutoSys and routed to the appropriate team to investigate and resolve Workflow ensured that alarms were acknowledged and resolved Architected for redundancy; backup controls were in place to ensure uninterrupted monitoring Integrated with xMatters for alert escalation and teleconference management, using REST web services Benefits included:</description></item><item><title>Search Results</title><link>https://AnthonyWhitford.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/search/</guid><description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
-[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
-    </item>
-    
-  </channel>
-</rss>
+[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description></item></channel></rss>

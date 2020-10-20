@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Lift on Anthony Whitford</title>
-    <link>https://AnthonyWhitford.com/tags/lift/</link>
-    <description>Recent content in Lift on Anthony Whitford</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/lift/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Production Control</title>
-      <link>https://AnthonyWhitford.com/projects/creations/production-control/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/production-control/</guid>
-      <description>Many enterprises have thousands of automated jobs that run throughout the day and into the night that are critical to business operations. Monitoring these jobs 24x7 and dealing with failures used to require a team.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lift on Anthony Whitford</title><link>https://AnthonyWhitford.com/tags/lift/</link><description>Recent content in Lift on Anthony Whitford</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/lift/index.xml" rel="self" type="application/rss+xml"/><item><title>Production Control</title><link>https://AnthonyWhitford.com/projects/creations/production-control/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/production-control/</guid><description>Many enterprises have thousands of automated jobs that run throughout the day and into the night that are critical to business operations. Monitoring these jobs 24x7 and dealing with failures used to require a team.
 This project replaced manual job monitoring, alert escalation, and teleconference management with a fully automated solution.
- Alarms were received from AutoSys and routed to the appropriate team to investigate and resolve Workflow ensured that alarms were acknowledged and resolved Architected for redundancy; backup controls were in place to ensure uninterrupted monitoring Integrated with xMatters for alert escalation and teleconference management, using REST web services  Benefits included:</description>
-    </item>
-    
-  </channel>
-</rss>
+Alarms were received from AutoSys and routed to the appropriate team to investigate and resolve Workflow ensured that alarms were acknowledged and resolved Architected for redundancy; backup controls were in place to ensure uninterrupted monitoring Integrated with xMatters for alert escalation and teleconference management, using REST web services Benefits included:</description></item></channel></rss>

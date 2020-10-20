@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Microsoft SQL Server on Anthony Whitford</title>
-    <link>https://AnthonyWhitford.com/tags/microsoft-sql-server/</link>
-    <description>Recent content in Microsoft SQL Server on Anthony Whitford</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/microsoft-sql-server/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>PRISM</title>
-      <link>https://AnthonyWhitford.com/projects/creations/prism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/prism/</guid>
-      <description>Led a team to build Portfolio Risk Information System Management (PRISM), a global investment management platform that connects information, people and technology required to manage money in real time. It covered the full investment process across asset classes, including:
- A single view of truth, updated in real time Institutionalized business processes Constituent level benchmark data and security analytics Ability to analyze risk across multiple dimensions Industry leading level of automation for portfolio compliance Integration with trading networks Straight Through Processing, including integration with brokers and custodians via SWIFT and FIX GIPS performance reporting and performance attribution  Benefits included:</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Microsoft SQL Server on Anthony Whitford</title><link>https://AnthonyWhitford.com/tags/microsoft-sql-server/</link><description>Recent content in Microsoft SQL Server on Anthony Whitford</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/microsoft-sql-server/index.xml" rel="self" type="application/rss+xml"/><item><title>PRISM</title><link>https://AnthonyWhitford.com/projects/creations/prism/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/prism/</guid><description>Led a team to build Portfolio Risk Information System Management (PRISM), a global investment management platform that connects information, people and technology required to manage money in real time. It covered the full investment process across asset classes, including:
+A single view of truth, updated in real time Institutionalized business processes Constituent level benchmark data and security analytics Ability to analyze risk across multiple dimensions Industry leading level of automation for portfolio compliance Integration with trading networks Straight Through Processing, including integration with brokers and custodians via SWIFT and FIX GIPS performance reporting and performance attribution Benefits included:</description></item></channel></rss>

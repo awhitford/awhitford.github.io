@@ -1,55 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cultural on Anthony Whitford</title>
-    <link>https://AnthonyWhitford.com/tags/cultural/</link>
-    <description>Recent content in Cultural on Anthony Whitford</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/cultural/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Agile Transformation</title>
-      <link>https://AnthonyWhitford.com/projects/creations/agile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/agile/</guid>
-      <description>According to Forbes, the proper response to digital disruption is agility. Agile empowers employees, responds to ambiguity, and embraces change. It has grown beyond IT, and can benefit the whole organization.
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cultural on Anthony Whitford</title><link>https://AnthonyWhitford.com/tags/cultural/</link><description>Recent content in Cultural on Anthony Whitford</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/cultural/index.xml" rel="self" type="application/rss+xml"/><item><title>Agile Transformation</title><link>https://AnthonyWhitford.com/projects/creations/agile/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/agile/</guid><description>According to Forbes, the proper response to digital disruption is agility. Agile empowers employees, responds to ambiguity, and embraces change. It has grown beyond IT, and can benefit the whole organization.
 This program:
- Engaged Certified Scrum Trainers to train and coach staff &amp;ndash; both IT and business leaders Reorganized staff to create effective teams Regularly assessed agile maturity of teams, and outlined steps for improvement Created a Community of Practice to gather feedback from teams, share best practices, and discuss challenges Revised policies that were inconsistent with the agile mindset  Benefits included:</description>
-    </item>
-    
-    <item>
-      <title>Data Architecture Modernization</title>
-      <link>https://AnthonyWhitford.com/projects/creations/data-architecture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/data-architecture/</guid>
-      <description>The Data-Centric Manifesto posits that data is the center of the universe, and the trends around Data Science support the value proposition of data. Trends around adopting Data Governance is a reflection of organizations having increasingly complex data architectures, and the critical importance of quality data. Organizations require comprehensive capabilities and processes around data; the DMBOK Wheel summarizes the challenges.
+Engaged Certified Scrum Trainers to train and coach staff &amp;ndash; both IT and business leaders Reorganized staff to create effective teams Regularly assessed agile maturity of teams, and outlined steps for improvement Created a Community of Practice to gather feedback from teams, share best practices, and discuss challenges Revised policies that were inconsistent with the agile mindset Benefits included:</description></item><item><title>Data Architecture Modernization</title><link>https://AnthonyWhitford.com/projects/creations/data-architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/data-architecture/</guid><description>The Data-Centric Manifesto posits that data is the center of the universe, and the trends around Data Science support the value proposition of data. Trends around adopting Data Governance is a reflection of organizations having increasingly complex data architectures, and the critical importance of quality data. Organizations require comprehensive capabilities and processes around data; the DMBOK Wheel summarizes the challenges.
 This project:
- Hired dedicated Data Architects to help lead the data architecture modernization initiative Rationalized feedback with DMBOK to develop vision, do a gap analysis, and prioritize Partnered with the new Enterprise Data team to promote Data Governance Explored new solutions, conducted proof of concepts, and purchased new capabilities Established a Community of Practice for Data Architecture to communicate new capabilities, best practices, and discuss challenges  Benefits included:</description>
-    </item>
-    
-    <item>
-      <title>Enterprise DevOps Pipeline</title>
-      <link>https://AnthonyWhitford.com/projects/creations/devops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/devops/</guid>
-      <description>DevOps is an important cultural shift that breaks down barriers between development and operations allowing organizations to create and improve solutions efficiently using automated processes. The Enterprise DevOps Pipeline was a uniform, automated process of transforming source code changes into delivered solutions.
+Hired dedicated Data Architects to help lead the data architecture modernization initiative Rationalized feedback with DMBOK to develop vision, do a gap analysis, and prioritize Partnered with the new Enterprise Data team to promote Data Governance Explored new solutions, conducted proof of concepts, and purchased new capabilities Established a Community of Practice for Data Architecture to communicate new capabilities, best practices, and discuss challenges Benefits included:</description></item><item><title>Enterprise DevOps Pipeline</title><link>https://AnthonyWhitford.com/projects/creations/devops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/devops/</guid><description>DevOps is an important cultural shift that breaks down barriers between development and operations allowing organizations to create and improve solutions efficiently using automated processes. The Enterprise DevOps Pipeline was a uniform, automated process of transforming source code changes into delivered solutions.
 This project:
- Introduced new tools, such as GitHub, Jenkins, Docker, Vault, Splunk, Ansible, and Terraform Created a DevOps Community of Practice to aid adoption Promoted best practices, such as Continuous Integration and Continuous Delivery (CI/CD), Secrets Management, and the Twelve Factors Provided more flexibility to developers for crafting solutions, while providing transparency to operations through Infrastructure as Code (IaC) Supported a variety of technology platforms (Java, JavaScript, Python, Scala, etc.</description>
-    </item>
-    
-    <item>
-      <title>Enterprise Technical Architecture Program</title>
-      <link>https://AnthonyWhitford.com/projects/creations/architecture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/architecture/</guid>
-      <description>Why Enterprise Architecture? Organizations of sufficient size and complexity need to organize themselves to make smart decisions, foster innovation, and avoid being overburdened by technical debt.
+Introduced new tools, such as GitHub, Jenkins, Docker, Vault, Splunk, Ansible, and Terraform Created a DevOps Community of Practice to aid adoption Promoted best practices, such as Continuous Integration and Continuous Delivery (CI/CD), Secrets Management, and the Twelve Factors Provided more flexibility to developers for crafting solutions, while providing transparency to operations through Infrastructure as Code (IaC) Supported a variety of technology platforms (Java, JavaScript, Python, Scala, etc.</description></item><item><title>Enterprise Technical Architecture Program</title><link>https://AnthonyWhitford.com/projects/creations/architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/architecture/</guid><description>Why Enterprise Architecture? Organizations of sufficient size and complexity need to organize themselves to make smart decisions, foster innovation, and avoid being overburdened by technical debt.
 This program:
- Engaged Gartner Consulting to outline a modern Enterprise Architecture framework that focused on coaching and steering Established a Technical Architecture Committee with cross IT representation as a decision-making body that improved management of innovation and technical debt, and communicated standards Documented a Technical Reference Architecture, a living document that included guardrails (Principles, Patterns, and Standards) for teams Created a Center of Excellence to gather feedback from teams and help prioritize evolution Organized guest speakers and Lunch and Learns to raise awareness of industry trends  Benefits included:</description>
-    </item>
-    
-  </channel>
-</rss>
+Engaged Gartner Consulting to outline a modern Enterprise Architecture framework that focused on coaching and steering Established a Technical Architecture Committee with cross IT representation as a decision-making body that improved management of innovation and technical debt, and communicated standards Documented a Technical Reference Architecture, a living document that included guardrails (Principles, Patterns, and Standards) for teams Created a Center of Excellence to gather feedback from teams and help prioritize evolution Organized guest speakers and Lunch and Learns to raise awareness of industry trends Benefits included:</description></item></channel></rss>

@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Snowflake on Anthony Whitford</title>
-    <link>https://AnthonyWhitford.com/tags/snowflake/</link>
-    <description>Recent content in Snowflake on Anthony Whitford</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/snowflake/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Data Architecture Modernization</title>
-      <link>https://AnthonyWhitford.com/projects/creations/data-architecture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://AnthonyWhitford.com/projects/creations/data-architecture/</guid>
-      <description>The Data-Centric Manifesto posits that data is the center of the universe, and the trends around Data Science support the value proposition of data. Trends around adopting Data Governance is a reflection of organizations having increasingly complex data architectures, and the critical importance of quality data. Organizations require comprehensive capabilities and processes around data; the DMBOK Wheel summarizes the challenges.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Snowflake on Anthony Whitford</title><link>https://AnthonyWhitford.com/tags/snowflake/</link><description>Recent content in Snowflake on Anthony Whitford</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://AnthonyWhitford.com/tags/snowflake/index.xml" rel="self" type="application/rss+xml"/><item><title>Data Architecture Modernization</title><link>https://AnthonyWhitford.com/projects/creations/data-architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://AnthonyWhitford.com/projects/creations/data-architecture/</guid><description>The Data-Centric Manifesto posits that data is the center of the universe, and the trends around Data Science support the value proposition of data. Trends around adopting Data Governance is a reflection of organizations having increasingly complex data architectures, and the critical importance of quality data. Organizations require comprehensive capabilities and processes around data; the DMBOK Wheel summarizes the challenges.
 This project:
- Hired dedicated Data Architects to help lead the data architecture modernization initiative Rationalized feedback with DMBOK to develop vision, do a gap analysis, and prioritize Partnered with the new Enterprise Data team to promote Data Governance Explored new solutions, conducted proof of concepts, and purchased new capabilities Established a Community of Practice for Data Architecture to communicate new capabilities, best practices, and discuss challenges  Benefits included:</description>
-    </item>
-    
-  </channel>
-</rss>
+Hired dedicated Data Architects to help lead the data architecture modernization initiative Rationalized feedback with DMBOK to develop vision, do a gap analysis, and prioritize Partnered with the new Enterprise Data team to promote Data Governance Explored new solutions, conducted proof of concepts, and purchased new capabilities Established a Community of Practice for Data Architecture to communicate new capabilities, best practices, and discuss challenges Benefits included:</description></item></channel></rss>
